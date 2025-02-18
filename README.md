@@ -1,2 +1,2 @@
 # Binery_Search
-how to use binery search in our program
+how to use binery search in our program?

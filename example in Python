@@ -1,3 +1,5 @@
+*.py linguist-detectable=true
+
 def binerysearch(array, choise):
     low = 0
     high = len(array) - 1
